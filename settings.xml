@@ -1,0 +1,22 @@
+<settings>
+	<proxies>
+		<proxy>
+			<id>http-vm-proxy</id>
+			<active>true</active>
+			<protocol>http</protocol>
+			<host>proxy.slc.co.uk</host>
+			<port>8080</port>
+			<username>TransformationProj</username>
+			<password>Glasgow1</password>
+		</proxy>
+		<proxy>
+			<id>https-vm-proxy</id>
+			<active>true</active>
+			<protocol>https</protocol>
+			<host>proxy.slc.co.uk</host>
+			<port>8080</port>
+			<username>TransformationProj</username>
+			<password>Glasgow1</password>
+		</proxy>
+	</proxies>
+</settings>
